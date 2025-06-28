@@ -1,31 +1,27 @@
-CALLBIN (B-Gas From Waste)
+# 🔋CALLBIN
+B-Gas From Waste
 
-An innovative IoT-based system that converts organic waste into clean biogas, offering a sustainable alternative to LPG. Built with smart automation and real-time monitoring to support eco-friendly energy solutions.
+An IoT-based smart system that converts organic waste into clean biogas, offering a sustainable alternative to LPG through controlled automation.
 
-🔍 Overview
+## 🔍 Overview
+This project promotes renewable energy by automating the anaerobic digestion process. It uses sensors and microcontrollers to monitor gas levels and control bioreactor functions in real-time.
 
-This project focuses on sustainable energy generation by leveraging controlled anaerobic digestion. Organic kitchen waste is broken down in a smart bioreactor to produce methane-rich gas.
+## 🚀 Features
+- Automated waste input and gas control
+- Real-time monitoring using gas sensors
+- Environment-friendly and scalable setup
 
-🚀 Features
+## 🛠 Tech Stack
+- Arduino  
+- Embedded C  
+- Gas Sensors  
+- Solenoid Valves  
+- PVC Bioreactor Design
 
-Automatic waste processing and gas flow control
+## 🌱 Impact
+Reduces dependency on LPG cylinders and offers a renewable energy solution for rural communities, households, and institutions.
 
-Real-time monitoring using gas sensors
+## 📸 Demo (Optional)
+_Add image or GIF of system working here if available._
 
-Eco-friendly and scalable design for rural and urban areas
-
-🛠 Tech Stack
-
-Arduino
-
-Embedded C
-
-Gas Sensors
-
-Solenoid Valves
-
-PVC Bioreactor Design
-
-🌱 Impact
-
-This project promotes renewable energy practices and can significantly reduce dependence on LPG cylinders in low-resource communities.
+## 📂 Folder Structure (Optional)
