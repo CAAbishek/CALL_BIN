@@ -1,5 +1,4 @@
-CALLBIN
-B-Gas From Waste
+CALLBIN (B-Gas From Waste)
 
 An innovative IoT-based system that converts organic waste into clean biogas, offering a sustainable alternative to LPG. Built with smart automation and real-time monitoring to support eco-friendly energy solutions.
 
